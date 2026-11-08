@@ -45,7 +45,7 @@
       "outdatedMessage": "You are on an outdated version of LibrePad, please update at deez.uk/discord!"
     },
     {
-      "modName": "Sentinel Client",
+      "modName": "Sotion client",
       "latestVersion": "1.2.8",
       "minimumVersion": "1.2.8",
       "notLatestMessage": "You are on an unsupported version, please update to the latest version!",
