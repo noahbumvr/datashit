@@ -4,9 +4,9 @@
     "author": "sotion",
     "version": "1.2.6",
     "dependencies": ["BepInEx"],
-    "git_path": "DeezVrOfficial/Sentinel",
+    "git_path": "noahbumvr/SotionChecker",
     "group": "Modchecker",
-    "download_url": "https://github.com/DeezVrOfficial/Sentinel/releases/latest/download/Sentinel.dll"
+    "download_url": "https://github.com/noahbumvr/SotionChecker/releases/latest/download/Sotion.dll"
   },
   {
     "name": "hamburbur",
