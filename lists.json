@@ -12,6 +12,7 @@
     "name": "hamburbur",
     "author": "ZlothY29IQ",
     "version": "7.3.0",
+    "warning": "Uses Console"
     "dependencies": ["BepInEx"],
     "git_path": "hamburbur-org/hamburbur",
     "group": "Menu",
