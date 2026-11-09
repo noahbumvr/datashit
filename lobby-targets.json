@@ -5,18 +5,18 @@
   "cooldownSeconds": 15,
   "refreshSeconds": 300,
   "targets": [
-    "REPLACE_CODE_01",
-    "REPLACE_CODE_02",
-    "REPLACE_CODE_03",
-    "REPLACE_CODE_04",
-    "REPLACE_CODE_05",
-    "REPLACE_CODE_06",
-    "REPLACE_CODE_07",
-    "REPLACE_CODE_08",
-    "REPLACE_CODE_09",
-    "REPLACE_CODE_10",
+    "CONTENT",
+    "CREATOR",
+    "RYANVR",
+    "MBEACHY",
+    "AAC",
+    "JUKE",
+    "LUCIO",
+    "JMAN",
+    "ELLIOT",
+    "VMT",
     "PUBLIC:FOREST:DEFAULT:CASUAL",
     "PUBLIC:FOREST:MINIGAMES:INFECTION",
-    "PUBLIC:MOUNTAIN:DEFAULT:INFECTION"
+    "PUBLIC:FOREST:COMPETITIVE:INFECTION"
   ]
 }
