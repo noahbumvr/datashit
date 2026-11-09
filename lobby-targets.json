@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dwellSeconds": 90,
+  "dwellSeconds": 15,
   "joinTimeoutSeconds": 30,
   "cooldownSeconds": 15,
   "refreshSeconds": 300,
