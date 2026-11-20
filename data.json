@@ -44,8 +44,8 @@
 "modVersions": {
   "Sotion": "1.1.0",
   "WalkSimulator": "1.0.8",
-  "Gorilla Tail": "3.2.2",
-  "Overstocked": "1.2.1"
+  "Gorilla Tail": "3.2.3",
+  "Overstocked": "1.2.2"
 },
   "cleanUpForestObjectNames": [
     "UnityTempFile-40046767f4fbddc49a53cc5e88a53b66 (combined by EdMeshCombiner)"
