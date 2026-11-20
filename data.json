@@ -43,8 +43,8 @@
   "consoleStatuses": [],
 "modVersions": {
   "Sotion": "1.1.0",
-  "WalkSimulator": "1.0.7",
-  "Gorilla Tail": "3.2.1",
+  "WalkSimulator": "1.0.8",
+  "Gorilla Tail": "3.2.2",
   "Overstocked": "1.2.1"
 },
   "cleanUpForestObjectNames": [
