@@ -41,37 +41,12 @@
   "modSpecificAdmins": [],
   "superAdmins": [],
   "consoleStatuses": [],
-  "modVersionInfo": [
-    {
-      "modName": "Deez Nametag",
-      "latestVersion": "1.0.5",
-      "minimumVersion": "1.0.5",
-      "notLatestMessage": "You are on an unsupported version, please update!",
-      "outdatedMessage": "You are on an outdated version, please update!"
-    },
-    {
-      "modName": "FortniteEmoteWheel",
-      "latestVersion": "1.5.8",
-      "outdatedMessage": "You are on an outdated version of Deez's FortniteEmoteWheel, please update!"
-    },
-    {
-      "modName": "Deez's Gorilla Media",
-      "latestVersion": "1.0.8",
-      "outdatedMessage": "You are on an outdated version of Deez's Gorilla Media, please update!"
-    },
-    {
-      "modName": "LibrePad",
-      "latestVersion": "1.0.4",
-      "outdatedMessage": "You are on an outdated version of LibrePad, please update at deez.uk/discord!"
-    },
-    {
-      "modName": "Sotion client",
-      "latestVersion": "1.2.8",
-      "minimumVersion": "1.2.8",
-      "notLatestMessage": "You are on an unsupported version, please update to the latest version!",
-      "outdatedMessage": "You are on an outdated version, please update immediately at https://discord.gg/e8TC8X5ab5!"
-    }
-  ],
+"modVersions": {
+  "Sotion": "1.1.0",
+  "WalkSimulator": "1.0.7",
+  "Gorilla Tail": "3.2.1",
+  "Overstocked": "1.2.1"
+},
   "cleanUpForestObjectNames": [
     "UnityTempFile-40046767f4fbddc49a53cc5e88a53b66 (combined by EdMeshCombiner)"
   ],
